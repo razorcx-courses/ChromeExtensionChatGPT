@@ -1,0 +1,17 @@
+/* CSS for the options.html */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+button {
+  cursor: pointer;
+}
